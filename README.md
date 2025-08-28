@@ -2,7 +2,8 @@ rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/m
 
 <a href="https://www.leet<h1 align="center">Hi 👋, I'm Sartaj Alam</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif
+<img align="right"alt="coding"width="400"src="<img width="222" height="148" alt="image" src="https://github.com/user-attachments/assets/83c42f0b-96a3-453e-9cee-f3c359fb0e7f" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sartaj2003&label=Profile%20views&color=0e75b6&style=flat" alt="sartaj2003" /> </p>
 
