@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/me.jpg" alt="My Photo" width="200" style="border-radius: 50%;" />
+</p>
+
 <!-- ====== Header / Animated typing ====== -->
 <p align="center">
   <a href="https://github.com/your-username" target="_blank">
@@ -71,9 +75,9 @@
 
 # 📈 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sartaj2003&show_icons=true&theme=radical" alt="GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sartaj2003&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
