@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-stack developer</strong> focused on clean code, modern UI, and scalable backends. I ❤️ building web apps with React + Python/Java/Ruby and shipping polished user experiences.
+  <strong>Full-stack developer</strong> focused on clean code, modern UI, and scalable backends. I ❤️ building web apps with React + Python/Ruby and shipping polished user experiences.
 </p>
 
 ---
@@ -65,15 +65,7 @@
 
 ---
 
-# 🚀 Featured Projects
-- **Project A** — [Live](#) | [Code](#)  
-  `⭐ Highlights:` React + Flask app with authentication, REST API, and responsive UI.
-- **Project B** — [Live](#) | [Code](#)  
-  `⭐ Highlights:` Java Spring Boot microservice, clean architecture, Dockerized, CI/CD.
-- **Project C** — [Live](#) | [Code](#)  
-  `⭐ Highlights:` Fullstack e-commerce (React + Django), Stripe payments, admin panel.
-- **Project D** — [Live](#) | [Code](#)  
-  `⭐ Highlights:` Ruby on Rails blog platform with authentication, CRUD operations, and PostgreSQL.
+.
 
 ---
 
@@ -94,10 +86,14 @@
 ---
 
 # 🌱 Currently Learning
-- Next.js 14  
-- Advanced TypeScript patterns  
-- Microservices Architecture  
-- Ruby on Rails 7
+-  Ruby on rails
+-  MVC architecture
+-  Rails routing & layouts
+-  
+-  
+
+-  
+-
 - 
 
 ---
